@@ -2,7 +2,7 @@
 
 This repository contains the **Noe Improvement Proposals** (NIPs), the formal mechanism for proposing changes, extensions, and enhancements to the Noe Protocol.
 
-**Noe** is a symbolic communication substrate designed to make thought interoperable — across humans, machines, and hybrid systems. The NIP process ensures that changes to this protocol are transparent, peer-reviewed, and technically rigorous.
+**Noe** is a symbolic communication substrate designed to make thought interoperable, across humans, machines, and hybrid systems. The NIP process ensures that changes to this protocol are transparent, peer-reviewed, and technically rigorous.
 
 <br>
 
@@ -15,15 +15,15 @@ A **Noe Improvement Proposal** (NIP) is a design document that specifies a new f
 - Enable parser and agent interoperability  
 - Formalize decisions in a public, versioned archive
 
-See [`nip-0001.md`](./nip-0001.md) (coming soon) for the full NIP lifecycle and contribution process.
+See [`nip-0001.md`](.NIPs/nip-0001.md) for the full NIP lifecycle and contribution process.
 
 <br>
 
 ## Directory Structure
 
-Each NIP is a standalone Markdown file in the root directory.
+Each NIP is a standalone Markdown file in the NIPs/ directory.
 
-/nip-0001.md     – NIP process and lifecycle definition
+[/nip-0001.md](.NIPs/nip-0001.md)     – NIP process and lifecycle definition
 
 NIPs follow the naming convention `nip-XXXX.md`. Numbers are assigned after review and merge.
 
@@ -35,6 +35,7 @@ NIPs follow the naming convention `nip-XXXX.md`. Numbers are assigned after revi
 - `Proposed`: Accepted for future inclusion  
 - `Final`: Implemented or adopted  
 - `Deprecated`: Superseded or withdrawn
+- `Rejected`: Reviewed and not accepted
 
 <br>
 
@@ -53,7 +54,7 @@ NIP editors will review, assign a number, and provide feedback.
 
 ## Governance
 
-The NIP process is currently maintained by the founding author [`@augustus`]([https://twitter.com/augustusaligned](https://github.com/augustus-aligned)) and early contributors.
+The NIP process is currently maintained by the founding author [`@augustus`](https://github.com/augustus-aligned) and early contributors.
 
 - **Authors:** Anyone submitting a proposal  
 - **Editors:** Responsible for reviewing, formatting, and merging NIPs  
