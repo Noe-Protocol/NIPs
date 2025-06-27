@@ -75,7 +75,7 @@ For questions, feedback, or to discuss NIP proposals, join us at:
 
 ## License
 
-MIT License © Noe Protocol.  
-Proposals may be used, implemented, or extended freely with attribution.
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+Proposals may be used, implemented, or extended freely without restriction or attribution.
 
 > This repo is the canonical archive for symbolic protocol evolution. Thought, formalized.
